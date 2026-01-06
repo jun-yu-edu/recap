@@ -1,3 +1,6 @@
+# 이것이 readme야
+## 이렇게 표현할 수 있어
+
 ctrl + ` => terminal
 1. 깃으로 관리하고
     git init
